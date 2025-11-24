@@ -17,4 +17,7 @@
 
 <details>
  <summary><b>DIVISIÓN</b></summary>
+ 
+ #### DIAGRAMA DE FLUJO
+ 
 </details>
