@@ -1,5 +1,5 @@
 <details>
-  <summary>🟦 # CALCULADORA</summary>
+  <summary>CALCULADORA</summary>
 
   ## MULTIPLICACIÓN
    ### DIAGRAMA DE FLUJO
