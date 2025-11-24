@@ -1,4 +1,6 @@
-# CALCULADORA
+<details>
+  <summary>🟦 # CALCULADORA</summary>
+
   ## MULTIPLICACIÓN
    ### DIAGRAMA DE FLUJO
   ![Diagrama](Diag_flujo_Mult.png)
