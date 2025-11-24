@@ -8,3 +8,6 @@
 
 ## CAMINO DEDATOS
 ![Diagrama](IMAGENES/Cam_dat_div.png)
+
+## SIMULACIÓN
+![Diagrama](IMAGENES/sim_div.png)
