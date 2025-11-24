@@ -3,7 +3,7 @@
 
 <details>
   <sumary> # MULTIPLICACIÓN </sumary>
-### DIAGRAMA DE FLUJO
+## DIAGRAMA DE FLUJO
 ![Diagrama](Diag_flujo_Mult.png)
 
 ## CAMINO DE DATOS
