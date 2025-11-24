@@ -11,3 +11,4 @@
 
 ## DIAGRAMA DE ESTADOS
 ![Diagrama](Diag_Est_Mult.png)
+</details>
