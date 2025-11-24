@@ -10,4 +10,6 @@
 ![Diagrama](Cam_Dat_Mult.png)
 #### DIAGRAMA DE ESTADOS
 ![Diagrama](Diag_Est_Mult.png)
+#### SIMUACIÓN
+
 </details>
