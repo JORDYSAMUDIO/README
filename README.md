@@ -11,5 +11,5 @@
 #### DIAGRAMA DE ESTADOS
 ![Diagrama](Diag_Est_Mult.png)
 #### SIMUACIÓN
-
+![Diagrama](SIM_Mult.png)
 </details>
